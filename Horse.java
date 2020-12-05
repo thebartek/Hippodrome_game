@@ -1,4 +1,4 @@
-package com.codegym.task.task21.task2113;
+package me.BartlomiejMarczuk;
 
 public class Horse {
 
